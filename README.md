@@ -1,8 +1,9 @@
 <DOCTYPE html!>
 <html>
-	<header>
+	<head>
+		<meta charset="utf-8">
 		<title>Mein Lebeslauf</title>
-	</header>	
+	</head>	
 	<body>
 		<h1>TimTim D </h1>
 			<p>Informatik Studentin </p>
