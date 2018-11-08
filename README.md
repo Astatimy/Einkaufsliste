@@ -9,10 +9,10 @@
 			<p>Informatik Studentin </p>
 			<figure>
 			<image src="iterative.png" alt="iteratives Vorgehensmodell"/>
-			<figcaption>Iteratives Vorgensmodell</figcaptions>
+			<figcaption>Iteratives Vorgensmodell</figcaption>
 			</figure>
 
-		<h2> Akademische Laufbahn</h2>
+		<h2> Akademische Laufbahn</h2>:wq
 		<p>Akademische Laufbahn</p>
 		<h2>Praktika und Nebentätigkeit</h2>
 		<h2> Skills</h2>
